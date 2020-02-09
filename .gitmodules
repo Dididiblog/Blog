@@ -4,3 +4,7 @@
 [submodule "themes/hugo-refresh"]
 	path = themes/hugo-refresh
 	url = https://github.com/PippoRJ/hugo-refresh
+[submodule "public"]
+	path = public
+	url = git@github.com:Dididiblog/dididiblog.github.io.git
+	branch = master
