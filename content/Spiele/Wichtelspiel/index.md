@@ -1,7 +1,7 @@
 ---
 title: "Wichtelspiel"
 date: 2019-06-17T23:53:00+01:00
-draft: true
+draft: false
 hideLastModified: true
 summary: "Ein Spiel für beliebig viele Kinder an Weihnachtsfeiern"
 summaryImage: "Wichtel.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Excel Zeugnislisten"
 date: 2019-06-17T23:53:00+01:00
-draft: true
+draft: false
 hideLastModified: true
 summary: "Excelliste zur Berechnung der Zeugnisnoten"
 summaryImage: "images/Titelbild.png"
