@@ -1,0 +1,4 @@
+git add --all
+git commit -m "Nachricht"
+git push
+./deploy.sh
