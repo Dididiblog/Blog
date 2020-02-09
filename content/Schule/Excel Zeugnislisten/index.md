@@ -19,5 +19,3 @@ Hier meine Variante der Tabelle:
 Die Tabellen sind stets so angeordnet, dass in die linke Zelle die Note (1-6) und ich die rechte Zelle die Tendenz (+ oder -) eingetragen wird. Das habe ich so gemacht, weil hier in Rheinland-Pfalz die Tendenzen bei der Berechnung der Endnote zunächst nicht berücksichtigt werden darf und nur im Falle einer nicht eindeutigen Note (etwa zwischen x,4 und x,6) herangezogen werden. Falls das in deinem Bundesland anders ist, kannst du die rechte Zelle jeweils löschen und stattdessen die Notentendenzen 1- als 1,3 eintragen.
 
 In die obere Zeile wird die Art der note eingegeben
-
-

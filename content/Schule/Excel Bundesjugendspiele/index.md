@@ -46,8 +46,6 @@ Leider habe ich es nicht geschafft, Kinder unterschiedlicher Klassenstufen zu ve
 
 Zellen der Tabelle, die Formeln enthalten wurden geschützt, damit die Fettfinger nicht versehentlich wichtige Informationen löschen. Außerdem wurde in bestimmten Zellen wie z.B. der Geschlechtsspalte nur bestimmte Eingaben ("m" oder "w") zugelassen, wenn dies für die weitere Nutzung wichtig ist.
 
-
-
 ### Riegenkarten
 
 Passend zur Auswertung habe ich noch Riegenkarten erstellt, welche für jede Klasse ausgedruckt und den Riegenführern in die Hand gedrückt werden kann. Das besondere hierbei: Die Namen und das Alter der Schüler muss nur auf der ersten Tabelle eingetragen werden. Sie werden dann für die anderen Disziplinen kopiert.
@@ -55,9 +53,6 @@ Passend zur Auswertung habe ich noch Riegenkarten erstellt, welche für jede Kla
 Auch hier wird abhängig vom Alter und Geschlecht der Schüler automatisch angegeben, welche Disziplin ausgeführt werden muss.
 
 ![d](images/Riegenkarten.png)
-
-
-
 
 ### Achtung
 
