@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summary: "Exceltabelle und Riegenkarten für die Auswertung der Bundesjugendspiele"
 summaryImage: "images/Exceltabelle.png"
-tags: ["Sport", "Schule", "Download"]
+tags: ["Sport", "Schule", "Download", "Excel"]
 ---
 
 Ich liebe Sportfeste und ich finde es toll, wenn die Besten noch am Wettkampftag gekürt werden können!
