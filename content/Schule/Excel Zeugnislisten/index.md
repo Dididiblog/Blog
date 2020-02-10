@@ -20,7 +20,7 @@ Na? Nichts zu erkennen? Also der Reihe nach...
 
 Die Tabellen sind stets so angeordnet, dass in die linke Zelle die Note (1-6) und ich die rechte Zelle die Tendenz (+ oder -) eingetragen wird. Das habe ich so gemacht, weil hier in Rheinland-Pfalz die Tendenzen bei der Berechnung der Endnote zunächst nicht berücksichtigt werden darf und nur im Falle einer nicht eindeutigen Note (etwa zwischen x,4 und x,6) herangezogen werden. Bei Peter etwa würde ich mich nun für die Note 3 entscheiden, da er auf 2,5 steht und zwei mal eine negative Tendenz in den Einzelnoten hat.
 
-![d](images/Noten eintragen.png)
+![d](images/Noteneintragen.png)
 
 Falls das in deinem Bundesland anders ist, kannst du die rechte Zelle jeweils löschen und stattdessen die Notentendenzen wie z.B. 1- als 1,3 eintragen.
 
@@ -28,7 +28,7 @@ Falls das in deinem Bundesland anders ist, kannst du die rechte Zelle jeweils l�
 
 Zunächst einmal wird in Hauptfächern und in der Oberstufe nach "schriftlichen" und "mündlichen" unterschieden, wobei die "mündlichen Noten" durchaus schriftlich erfolgen können... verwirrende Angelegenheit.... kurz gesagt: "schriftliche Noten" sind ausschließlich fest vorgeschriebene, umfangreichere, schriftliche Tests, die bei uns"Klassen-" oder "Kursarbeiten" heißen. Alle anderen Noten gelten als "mündlich"- Dabei können die erbrachten Leistungen sehr unterschiedlich sein und sollten daher auch unterschiedlich stark in die Gesamtwertung einfließen.  Eine Epochalnote zum Beispiel kann doppelt so stark ins Gewicht fallen, wie eine Lernerfolgskontrolle (LEK. Auch bekannt als Hausaufgabenüberprüfung o.ä.). Das kann durch den Faktor "2" unter der Notenbeschreibung angegeben werden.
 
-![d](images/mdl schrftl.png)
+![d](images/mdlschrftl.png)
 
 Für den schriftlichen und mündlichen Bereich wird jeweils eine gewichtete Durchschnittsnote ermittelt. Beispielrechnung für Max Mustermann:
 
@@ -56,7 +56,7 @@ Aus schriftlicher und mündlicher Note wird die Gesamtnote ermittelt. Das tue ic
    
    Bsp. Peter: 3x1/3  +  2x2/3  =   2,3
 
-![u](images/Ermittlung HJ.png)
+![u](images/ErmittlungHJ.png)
 
 Standartmäßig wird das Ergebnis der 2. Variante als Zeugnisnote ("End") übernommen (Vorgabe RLP). "End" entspricht der Zelle "rund". Allerdings muss die Zeugnisnote ja nicht unbedingt der gerundeten Zahl entsprechen, vor allem dann nicht, wenn der Schüler zwischen zwei Noten steht. In diesem Fall ändere ich die Note "End" händisch und lasse die Note in "rund" unangetastet.
 
@@ -84,11 +84,11 @@ Die vorgestellte Tabelle nutze ich nur für die Oberstufe, da ich keine Hauptfä
 
 Für Sport habe ich verschiedene Blöcke für die jeweiligen Sportarten gemacht. Pro Sportart wird dann eine Note ermittelt, die im Zeugnis zur Gesamtnote verrechnet werden.
 
-![Sport Übersicht](images/Sport Übersicht.png)
+![Sport Übersicht](images/SportÜbersicht.png)
 
 Ein Block kann zum Beispiel die Sportart Turnen enthalten, wobei Noten am Reck und am Schwebebalken gemacht wurden. Die Schwebebalkenkür war aufwendiger, weswegen diese Note doppelt gewichtet wurde. 
 
-![Sport Turnblock](images/Sport Zelle.png)
+![Sport Turnblock](images/SportZelle.png)
 
 Die einzelnen Sportarten können ebenfalls gegnüber anderen Sportarten des Halbjahres gewichtet werden durch die Zelle links neben der Sportart (hier Einfachgewichtung "1" von Turnen).
 

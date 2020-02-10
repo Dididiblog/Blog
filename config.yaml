@@ -94,7 +94,7 @@ params:
     # option to specify th subtitle in the homepage
     subtitle: Alles, was mich so bewegt
     # option to specify image in the homepage
-    image: "/images/avataaars.png" # worker.svg 
+    image: "/images/didisavatar.png" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
 
@@ -153,7 +153,7 @@ params:
 #      homepage:
 #        title: Julia белая краска
 #        subtitle: Персональный сайт и блог
-#        image: "/images/avataaars.png" # worker.svg 
+#        image: "/images/didisavatar.png" # worker.svg 
 #        imageWidth: 500px
       
       # Some sub-parameters of the "footer" parameter
