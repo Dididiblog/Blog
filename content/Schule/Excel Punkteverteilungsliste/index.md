@@ -12,7 +12,7 @@ Diese Exceltabelle soll helfen bei Klassenarbeiten die Noten anhand der erreicht
 
 Die Tabelle ist in drei Teile aufgeteilt: Im rechten Teil (1) werden die Schülernamen mit erreichten Punktzahlen eingegeben und die jeweilige Note ausgegeben, links daneben (2) ist der Notenspiegel zu sehen wo auch die Notenverteilung nach Noten angezeigt und angepasst werden können, unten darunter (3) ist ein Diagramm des Notenspiegels zu sehen.
 
-![i](images/Übersicht.jpg)
+![i](images/Übersicht.png)
 
 ## (1) Namen und Punktzahlen eintragen
 

@@ -12,27 +12,29 @@ tags: ["Stoffwindeln", "Baby"]
 
 Wer sich mal mit dem Thema Stoffwindeln beschäftigt, wird erstmal leicht überfordert. Ich hatte mich auch informiert, bin zur Windelberatung, habe mich für ein System entschieden und habe dann versehentlich ein anderes gekauft... Aber ich bin genügsam und nutze, was mir zur Verfügung steht. Als dann nach 6 Monaten die Windeln fast täglich 3 Mal ausliefen, musste was Neues her! Ebay Kleianzeigen war nicht mehr vor mir sicher und ich  bestellte gleich mehrere verschiedene Höschen. Hier mein persönlicher Testbericht! Anwendungsfehler sind nicht ausgeschlossen ;)
 
-###### 1. Pocketwindeln von OhBabyKa
 
-###### 2. PUL-Windeln von (geknöpft)
 
-###### 3. PUL-Windeln von (mit Klett)
+1. Pocketwindeln von OhBabyKa
 
-###### b    3,5. Vergleich Pocketwindeln vs. Taschenlos
+2. PUL-Windeln von (geknöpft)
 
-###### 3,55. Vergleich Knöpfe vs. Klett
+3. PUL-Windeln von (mit Klett)
+   
+   - Vergleich Pocketwindeln vs. Taschenlos
+   
+   - Vergleich Knöpfe vs. Klett
 
-###### 4. Höschenwindeln von Totsbots
+4- Höschenwindeln von Totsbots
 
-###### 5. Bindewindeln von Disana
+5- Bindewindeln von Disana
 
-###### 6. Bindewindeln von Disana aber ohne Binden
+6- Bindewindeln von Disana aber ohne Binden
 
-###### 7. Windelmanufaktur
+7- Windelmanufaktur
 
-###### 8. Selbst genäht nach dem Fluff Stuff V2 Schnittmuster
+8- Selbst genäht nach dem Fluff Stuff V2 Schnittmuster
 
-Der aufmerksame vorgebildete Leser merkt, dass es sich die Systeme ähneln und keine "All in one-Systeme" (AIO) getestet wurden. Da hatte ich einfach von  vornerein keien Lust drauf.
+Der aufmerksame vorgebildete Leser merkt, dass es sich die Systeme ähneln und keine "All in one-Systeme" (AIO) getestet wurden. Da hatte ich einfach von  vornerein keine Lust drauf.
 
 #### 1. Pocketwindeln von OhBayKa
 

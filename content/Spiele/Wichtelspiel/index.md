@@ -78,11 +78,7 @@ Ich habe einige Walnüsse mit Draht umschlungen, sodass sie an den sehr einfach 
 
 ##### Vorgehen
 
-Die Kinder sitzen auf dem Sofa und müssen mit ihren magnetischen Aneln die Nüsse vom Boden aufsammeln.
-
-```html
-
-```
+Die Kinder sitzen auf dem Sofa und müssen mit ihren magnetischen Angeln die Nüsse vom Boden aufsammeln.
 
 ![N](images/20191216_123819.jpg)
 
@@ -100,7 +96,7 @@ Die Kinder sitzen auf dem Sofa und müssen mit ihren magnetischen Aneln die Nüs
 
 ##### Vorbereitung
 
-Kissen oder andere Bodenmarkierungen werden i nerreichbarer Sprungentfernung auf dem Boden verteilt.
+Kissen oder andere Bodenmarkierungen werden in erreichbarer Sprungentfernung auf dem Boden verteilt.
 
 ##### Vorgehen
 

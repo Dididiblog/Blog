@@ -9,8 +9,6 @@ tags: ["nähen", "Baby"]
 
 ---
 
-Meine Schwester hat mich motiviert einen Strampler für meinen kleinen Milchmann zu nähen und hat gleichzeitig einen Anzug für ihre Kleine Maus bestellt. Also habe ich mich fix an die Nähmaschine gesetzt, wann immer mich der Milchmann gelassen hat und habe in verhältnismäßig kurzer Zeit diese tollen Anzüge genäht.
-
 Das Schnittmuster ist der "Jolly Jumper" von Lybstes, wobei ich wegen des wenig dehnbaren Wollwalks eine Größe größer genäht und die Arme und Beine dafür etwas gekürzt habe. 
 
 ![i](images/20191217_093134.jpg)
@@ -27,10 +25,10 @@ Den tollen Jerseystoff habe ich in einem super Sonderangebot während eines Feri
 
 ![d](images/20191217_093249.jpg)
 
-Das hier ist die erste Version für meinen Kerl:
-
-![r](images/20191119_193438.jpg)
+Eine weitere Version mit bläulichem Stoff und geringeltem Futter war dann auch fix genäht.
 
 ![d](images/20191119_182640.jpg)
+
+Da ich außer bei der Kapuze keinen Futterstoff genutzt habe und der Walkstoff nicht versäubert werden muss, ist der Strampler wirklich schnell genäht.
 
 ![e](images/20191119_182618.jpg)
