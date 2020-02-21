@@ -7,7 +7,7 @@ summaryImage: "images/Logo.png"
 tags: ["Spiel", "Download"]
 ---
 
-Alle Dokumente könen ganz unten als PDF herunter geladen werden
+Alle Dokumente können ganz unten als PDF herunter geladen werden
 
 ---
 
@@ -40,5 +40,3 @@ Spaß gemacht hat es aber allemal!
 #### Download
 
 [PDF OneMinuteGames](Dateien/OneMinuteGames.pdf)
-
-

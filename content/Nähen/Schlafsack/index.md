@@ -1,10 +1,10 @@
 ---
 title: "Schlafsack"
 date: 2019-06-17T23:53:00+01:00
-draft: false
+draft: true
 hideLastModified: true
 summary: "Mein erster Babyschlafsack"
-summaryImage: "Schlafsack1.jpg"
+summaryImage: "images/Schlafsack1.jpg"
 tags: ["nähen", "Baby"]
 resources:
 - src: /static/Schlaf2.png

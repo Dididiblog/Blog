@@ -92,7 +92,7 @@ params:
     # option to specify the title in the homepage
     title: DiDidi Blog 
     # option to specify th subtitle in the homepage
-    subtitle: Alles, was mich so bewegt
+    subtitle: Schule, Spiel und Selbstgemachtes
     # option to specify image in the homepage
     image: "/images/didisavatar.png" # worker.svg 
     # option to specify the width of the image in the homepage
