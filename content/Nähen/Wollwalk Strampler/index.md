@@ -4,7 +4,7 @@ date: 2019-06-17T23:53:00+01:00
 draft: false
 hideLastModified: true
 summary: "Ein süßer Wollwalkstrampler für die kalten Tage"
-summaryImage: "images/20191217_093249.jpg"
+summaryImage: "images/Titel.jpg"
 tags: ["nähen", "Baby"]
 
 ---

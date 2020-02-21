@@ -10,6 +10,6 @@ resources:
 - src: /static/Schlaf2.png
 ---
 
-Dies ist der erste Versuch einen Sommerschlafsack zu nähen. Eigentlich wollte ich ihn verschenken, aber es hat so lange gedauert, bis ich die frische Mutti besuchen konnte, sodass ihr kleiner bereits heraus gewachsen war. Also habe ich den süßen Monster-Schlafsack selbst verwendet :)
+Dies ist der erste Versuch einen Sommerschlafsack zu nähen. Eigentlich wollte ich ihn verschenken, aber es hat so lange gedauert, bis ich die frische Mutti besuchen konnte, dass ihr Kleiner bereits heraus gewachsen war. Da musste ich "leeeeider" das gute Stück selbst verwenden :D
 
 ![d](images/Schlafsack1.jpg)
