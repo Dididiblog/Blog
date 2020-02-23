@@ -4,7 +4,7 @@ date: 2019-06-17T23:53:00+01:00
 draft: true
 hideLastModified: true
 summary: "Welche Windel am Kindel? Ein Vergleich von 7 Systemen bzw. Marken."
-summaryImage: "images/klein-1.jpg"
+summaryImage: "images/klein-900.jpg"
 tags: ["Stoffwindeln", "Baby"]
 ---
 
@@ -16,9 +16,9 @@ tags: ["Stoffwindeln", "Baby"]
 
 Wer sich mal mit dem Thema Stoffwindeln beschäftigt, wird erstmal leicht überfordert. Ich hatte mich auch informiert, bin zur Windelberatung, habe mich für ein System entschieden und habe dann versehentlich ein anderes gekauft... Aber ich bin genügsam und nutze, was mir zur Verfügung steht. Als dann nach 6 Monaten die Windeln fast täglich 3 Mal ausliefen, musste was Neues her! Ebay Kleianzeigen war nicht mehr vor mir sicher und ich  bestellte gleich mehrere verschiedene Höschen. Hier mein persönlicher Testbericht! Anwendungsfehler sind nicht ausgeschlossen ;)
 
-1. Pocketwindeln von OhBabyKa
+1. Pocketwindeln von OhBabyKa (geknöpft) und von Littles&Bloomz (mit Klett)
 
-2. PUL-Windeln von (geknöpft) und von (mit Klett)
+2. PUL-Windeln aus China geknöpft (Marke unbekannt) 
 
 3. Höschenwindeln von Totsbots
 
@@ -32,7 +32,7 @@ Wer sich mal mit dem Thema Stoffwindeln beschäftigt, wird erstmal leicht überf
 
 Der aufmerksame vorgebildete Leser merkt, dass es sich die Systeme ähneln und keine "All in one-Systeme" (AIO) getestet wurden. Da hatte ich einfach von  vornerein keine Lust drauf.
 
-#### 1. Pocketwindeln von OhBayKa
+#### 1. Pocketwindeln von OhBabyKa (geknöpft) und von Littles&Bloomz (mit Klett)
 
 ###### Aufbau und Funktion
 
@@ -48,6 +48,14 @@ Der Verschluss funktioniert über Druckknöpfe. Außerdem kann die Windel Dank w
 
 ![Druckknöpfe](images/Verkleinerung.jpg)
 
+Die Windeln von Little&Bloomz lassen sich mit Klett verschließen, sind aber ansonsten weitesgehend identisch
+
+![Klettwindeln](images/klein-300.jpg)
+
+Damit beim Waschen nicht alles wild aneinander klebt, befindet sich auf der Rückseite ein Gegenklett, welcher geschlossen werden sollte, bevor die Windel in die Wäsche kommt. So bleibt der Klett länger haltbar.
+
+![Klettwindeln](images/Lascheneinklappen.jpg)
+
 ###### Meine Erfahrung
 
 Anfangs kamen wir ganz gut mit dem System klar. Die Windeln halten dicht und man kann zusätzliche Materialien einlegen, damit die Windel mehr saugt. Allerdings hatten wir immer wieder Unfälle und die Nacht über hält sie auf keinen Fall. Je Älter das Kind wurde, desto mehr Unfälle gab es, bis die Windel fast täglich (teilweise mehrmals) ausgelaufen ist.
@@ -56,33 +64,31 @@ Auch die verstellbare Größe, die ja eigentlich ein Vorteil ist, hat mich eher 
 
 Außerdem halte ich Pocketwindeln für unnötig. Wenn man sowieso die ganze Windel waschen muss, kann man auch gleich AIO nutzen... die sind weniger aufwendig und brauchen lediglich etwas länger zum Trocknen.
 
-#### 2. PUL-Windeln von (geknöpft) und von (mit Klett)
+Die Frage "Klett oder Knopf?" kann ich nun eindeutig mit "Knopf!" beantworten. Zwar ist es deutlich angenehmer und schneller mit Klett zu schließen, allerdings lösen sich diese blöden Dinger eigenltich immer vom Gegenklett oder man vergisst von vornerein, diesen zu benutzen, sodass in der Wäsche immer alles aneinander und am Wäschenetz hängt. Vielleicht bin ich auch zu blöd das ganze zu Benutzen, aber mir ging es auf die Nerven. Außerdem verlieren einige Kletts bereits an Haltekraft, was im Sinne der Nachhaltigkeit natürlich wenig nachhaltig ist. Die Klettfrage hat sich uns aber ohnehin schon sehr bald nicht mehr gestellt, weil die Außenwindeln dieser Marke die 60°C-Wäsche nicht vertragen haben und schon nach wenigen Wochen undicht wurden.
+
+#### 2. PUL-Windeln aus China geknöpft (Marke unbekannt)
 
 ###### Aufbau und Funktion
 
 Die Windeln funktionieren fast genauso wie die Pocketwindeln mit dem Unterschied, dass die Einlagen nicht in eine Tasche eingeschoben, sondern direkt aufgelegt werden können.
 
--Bild Einlage auf Außenwindel-
+![Einlage](images/EinlagePul.jpg)Zum Waschen muss die volle Windel dann nicht mehr angefasst werden.
 
-Zum Waschen muss die volle Windel dann nicht mehr angefasst werden.
+Auch hier kann die Größe wieder durch Knöpfe verstellt werden. 
 
-Auch hier kann die Größe wieder durch Knöpfe verstellt werden. Ein Doppelbündchen, soll auslaufen verhindern.
+![Windel von vorn](images/klein-63.jpg)Ein Doppelbündchen, soll auslaufen verhindern.
 
--Bild Windel groß klein-
-
-Die Windeln von xxx lassen sich mit Klett verschließen. Damit beim Waschen nicht alles wild aneinander klebt, befindet sich auf der Rückseite ein Gegenklett, welcher geschlossen werden sollte, bevor die Windel in die Wäsche kommt. So bleibt der Klett länger haltbar.
+![-Bild Doppelbündchen-](images/klein-700.jpg)
 
 ###### Meine Erfahrung
 
-Die Frage "Klett oder Knopf?" kann ich nun eindeutig mit "Knopf!" beantworten. Zwar ist es deutlich angenehmer und schneller mit Klett zu schließen, allerdings lösen sich diese blöden Dinger eigenltich immer vom Gegenklett oder man vergisst von vornerein, diesen zu benutzen, sodass in der Wäsche immer alles aneinander und am Wäschenetz hängt. Vielleicht bin ich auch zu blöd das ganze zu Benutzen, aber mir ging es auf die Nerven. Außerdem verlieren einige Kletts bereits an Haltekraft, was im Sinne der Nachhaltigkeit natürlich wenig nachhaltig ist. Die Klettfrage hat sich uns aber ohnehin schon sehr bald nicht mehr gestellt, weil die Außenwindeln dieser Marke die 60°C-Wäsche nicht vertragen haben und schon nach wenigen Wochen undicht wurden.
-
-Die Knöpfvariante hat uns gemeinsam mit den Pocketwindeln begleitet und ich habe sie lieber genutzt als diese, da sie ohne das nerviges Rein- und Rausfummeln der Einlage funktionierten (gut... soooo aufwendig ist es nun auch wieder nicht. Geht eigenltich schnell, aber wenn man es sich sparen kann...).
+Diese Variante hat uns gemeinsam mit den Pocketwindeln von OhBabyKa begleitet und ich habe sie lieber genutzt als diese, da sie ohne das nerviges Rein- und Rausfummeln der Einlage funktionierten (gut... soooo aufwendig ist es nun auch wieder nicht. Geht eigenltich schnell, aber wenn man es sich sparen kann...).
 
 Leider ging die Kacka immer und manchmal auch das Pipi auf die Außenwindel, sodass auch hier eigenltich immer alles in die Wäsche musste. 
 
 Im Punkt Auslaufsicherheit habe ich ebenfalls keinen Unterschied zur Pocketwindel feststellen können, wodurch es bei mir zu einem "Tschüss, auf nimmer wiedersehen" endet.
 
-Allerdings muss man herausstellen, dass es sich bei allen bisher vorgestellten Marken um sehr billig produzierte Produkte handelt. Das war mir beim Kauf nicht klar. Über teurere (höherwertigere??) Außenwindeln desselben Systems kann ich also keine Aussage treffen.
+Allerdings muss man herausstellen, dass es sich bei allen bisher vorgestellten Marken um sehr billig produzierte Produkte handelt. Das war mir beim Kauf nicht klar. Über teurere (höherwertigere??) Außenwindeln des selben Systems kann ich also keine Aussage treffen.
 
 #### 3. Höschenwindel von Totsbots
 
@@ -90,11 +96,15 @@ Allerdings muss man herausstellen, dass es sich bei allen bisher vorgestellten M
 
 Bei den Höschenwindeln von Totsbots handelt es sich um Bambuswindeln mit Klett. Auch sie können wieder kleiner geknöpft werden. Die Höschen müssen noch durch eine wasserdichte Außenwindel aus PUL oder Wolle ergänzt werden. 
 
+![Totsbots](images/klein-000.jpg)
+
 ###### Meine Erfahrungen
 
-Wir hatten sie als Nachtwindel in Verbindung mit den oben vorgestellten PUL-Überhöschen an. Am Anfang ging das auch ganz gut, bis der kleine größer wurde und mehr pinkelte. Dann sind wir auf Wegwerfwindeln in der Nacht umgestiegen. 
+Wir hatten sie als Nachtwindel in Verbindung mit den oben vorgestellten PUL-Überhöschen an. Am Anfang ging das auch ganz gut, bis das Baby größer wurde und mehr pinkelte. Dann sind wir auf Wegwerfwindeln in der Nacht umgestiegen. 
 
 Die Höschen sind recht  steif und machen einen riesigen Windelpo. Deswegen haben wir sie nicht tagsüber nicht tragen wollen.
+
+Die Kletts halten mittlerweile nicht mehr gut bis sehr schlecht.
 
 #### 4. Bindewindeln von Disana
 
@@ -126,8 +136,6 @@ Einfach Bändel ab, Snappi  dran, fertig ist die (fast) perfekte Windel! Das Wä
 
 - Bild Disana mit Snappi
 
-
-
 #### 6. Windelmanufaktur
 
 Ich wollte es wissen, ob diese teuren Windeln einfach nur teuer oder auch wirklich besser sind. Also schnell mal zwei Höschen auf dem Gebrauchtmarkt erworben und getestet.
@@ -140,7 +148,7 @@ Die Windelmanufaktur arbeitet mit dem "All-in-3-System" (AI3). Das heißt: eine 
 
 Sieht einfach süß aus. Das muss man schon sagen!
 
-![Windelmanufaktur](images/klein-26.jpg)
+![Windelmanufaktur](images/Windelmanufaktur.jpg)
 
 ###### Meine Erfahrungen
 

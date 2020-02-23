@@ -1,6 +1,6 @@
 baseURL: https://dididiblog.github.io/
 languageCode: de
-title: Personal website and blog
+title: DiDidiBlog
 theme: hugo-refresh
 # theme: ../..
 
