@@ -1,7 +1,7 @@
 ---
 title: "Stoffwindelvergleich"
 date: 2019-06-17T23:53:00+01:00
-draft: true
+draft: false
 hideLastModified: true
 summary: "Welche Windel am Kindel? Ein Vergleich von 7 Systemen bzw. Marken."
 summaryImage: "images/klein-900.jpg"
@@ -144,7 +144,7 @@ Ich wollte es wissen, ob diese teuren Windeln einfach nur teuer oder auch wirkli
 
 Die Windelmanufaktur arbeitet mit dem "All-in-3-System" (AI3). Das heißt: eine hübsche Außenwindel aus Baumwollstoff o.ä., eine wasserdichte Innenwindel zum Einknöpfen und schließlich eine Saugeinlage.
 
-![Windelmanufaktur]()
+![Windelmanufaktur](images/aklein-0.jpg)
 
 Sieht einfach süß aus. Das muss man schon sagen!
 

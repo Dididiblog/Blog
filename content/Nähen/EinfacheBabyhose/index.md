@@ -12,18 +12,14 @@ Dieses wunderbare Höschen ist in wenigen Minuten genäht, sieht toll aus und ka
 
 ![von vorne](images/klein-0.jpg)
 
-
-
 Durch die Bündchen an den Beinen ist die Hose anfangs eher eine Pumphose, später liegt sie dann etwas enger an
 
 ![Bündchen](images/klein-2.jpg)
 
 Eine Tasche auf der Rückseite sieht nicht nur gut aus, es hilft auch unheimlich dabei festzustellen, welche Seite vorne und welche hinten ist.
 
-![Von hinten](images/klein-3.jpg)
+![Von hinten](images/vornehinten.jpg)
 
  Das Schnittmuster habe ich aus dem Buch "Alles Jersey"
-
-![Bild Seit](images/klein-1.jpg)
 
 
