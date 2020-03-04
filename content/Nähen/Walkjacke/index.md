@@ -31,3 +31,7 @@ Vielleicht ist euch aufgefallen, dass der eine Ärmel noch keinen Abschluss hat.
 Angezogen ist der Mantel zuckersüß und erinnert ein bisschen an Rotkäppchen.
 
 ![Seitansicht](images/klein-4.jpg)
+
+So sieht es jetzt am Ende aus. Der Knopf wurde nochmal z ugrün geändert und die Bündchen sind dran
+
+![fertige Jacke](images/IMG-20200229-WA0003.jpg)

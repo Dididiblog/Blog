@@ -40,7 +40,7 @@ Es handelt sich um ein "All-in-3-System" wie bei der Windelmanufaktur und ist au
 
 Das Saugmaterial (hier eine Bambuseinlage) wird dann in die Innenwindel gelegt
 
-![Volle Windel](images/aklein-1.jpg)
+![Volle Windel](images/aklein-7.jpg)
 
 Bei den Laschen gibt es noch die Option diese verkürzt zu nähen, sodass die Windel nicht ganz so dick wird. Das habe ich bei meiner dritten Version getan und werde es auch bei allen weiteren tun, weil die KamSnaps sonst kaum in den hinteren Laschen halten. Die 4 Stofflagen sind einfach zu dick.  Im Bild unten fehlt auch Stilecht der eine Knopf der linken (dicken) Windel. rechts hält alles wunderbar :)
 
@@ -76,7 +76,7 @@ Hier eine Galerie meiner bisher genähten Werke. Eine kleine Sucht hat sich bere
 
 #### Kosten
 
-Eine selbstgenähte Stoffwindel hat einen ungefähren Materialwert von etwa **6,50€ pro Stück**. Diese setzen sich wie folgt zusammen:
+Eine selbstgenähte Stoffwindel hat einen ungefähren Materialwert von etwa **6,50€ pro Stück** (plus Saugeinlagen!). Diese setzen sich wie folgt zusammen:
 
 - **Softies-Stoff für die Wannen**
   
