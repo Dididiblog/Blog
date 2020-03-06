@@ -18,7 +18,7 @@ Vor Allem für Schüler ist es unheimlich motivierend, wenn sie nicht alleine si
 
 Hier also eine kleine Zusammenstellung von Partnerkraftübungen
 
-![Partnerkraftübungen](images/alle Übungen.png)
+![Partnerkraftübungen](images/alleÜbungen.png)
 
 Einige Übungen erfordern sehr engen Körperkontakt. Da muss man sich schon gut überlegen, ob man das den Schülern zutrauen kann. Und jaaa ich weiß... ich bin in meinem Zeichenstil nicht immer ganz konstistent... aber bei den Übungen, wo die Körper quasi aneinander kleben, musste ich den Stil wechseln, da sonst nicht mehr zu erkennen war, welches Bein wem gehört.
 
