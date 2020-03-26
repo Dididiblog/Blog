@@ -7,6 +7,10 @@ summaryImage: "images/Allgemeines/7klein-13.jpg"
 tags: ["Spiel"]
 ---
 
+Die hier genannten Markennamen sind nur genannt, um das Nachahmen zu erleichtern. Ich werde nicht von den Firmen bezahlt oder andere Leistungen erhalten.
+
+---
+
 Wenn man mal wieder keine Freunde treffen darf, nicht in den Sportverein kann und wegen Elternzeit auch nicht arbeiten muss, habe ich hier eine passende Beschäftigung! mich hat dieses "kleine Projekt" nun eine Woche lang fast täglich begleitet und daher freue ich mich umso mehr es nun voller stolz präsentieren zu können. Mein 3D-Catan für bis zu 6 Spieler!
 
 ![Übersicht](images/Allgemeines/8klein-3.jpg)
@@ -249,18 +253,18 @@ BILD RÄUBER
 
 Hier eine kleine Kostenauflistung:
 
-| Was?                                    | Wo?                     | Kosten    |
-| --------------------------------------- | ----------------------- | --------- |
-| Holzsechsecke (50 Stück, 8cm)           | Bütic GmbH              | 25€       |
-| Holzchips (50 Stück, 2cm)               | Bütic GmbH              | 4€        |
-| Verschiedene Streusorten und Moos       | Ebay Kleinanzeigen      | 12€       |
-| Strukturpaste von Faller                | Modellbau Berlinski     | 6€        |
-| Schafe und Schäfer von Faller           | Modellbau Berlinski     | 9,50€     |
-| Weiße Bohnen                            | REWE                    | 2€        |
-| Holzleim                                | Toom                    | 6€        |
-| Farbe, Fimo, Streichhölzer, Zahnstocher | hatte ich noch zu Hause | ?         |
-| Steine, Schilf, getrocknete Blumen      | draußen                 | kostenlos |
-| Versand                                 | verschieden             | 6€        |
+| Was?                                    | Kosten    |
+| --------------------------------------- | --------- |
+| Holzsechsecke (50 Stück, 8cm)           | 25€       |
+| Holzchips (50 Stück, 2cm)               | 4€        |
+| Verschiedene Streusorten und Moos       | 12€       |
+| Strukturpaste von Faller                | 6€        |
+| Schafe und Schäfer von Faller           | 9,50€     |
+| Weiße Bohnen                            | 2€        |
+| Holzleim                                | 6€        |
+| Farbe, Fimo, Streichhölzer, Zahnstocher | ?         |
+| Steine, Schilf, getrocknete Blumen      | kostenlos |
+| Versand                                 | 6€        |
 
 Das ergibt rund **70€**. Hui... Das hätte ich besser nicht ausrechnen sollen... Jetzt fühle ich mich schlecht :D
 
