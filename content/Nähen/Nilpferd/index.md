@@ -12,11 +12,11 @@ In einer Burda-Zeitschrift der 60er oder 70er Jahre habe ich dieses süße Nilpf
 
 ![Nilpferd voll](images/klein-1.jpg)
 
-Die Anleitung war leider SEHR kurz gehalten und mit Fachbegriffen gespickt. Für mich als Laie war es dadurch eine echte Herausforderung alles zu verstehen. Meistens hab ich einfsch nachgedacht, wie es wohl funktionieren muss.
+Die Anleitung war leider SEHR kurz gehalten und mit Fachbegriffen gespickt. Für mich als Laie war es dadurch eine echte Herausforderung alles zu verstehen. 
 
 ![Nilpferd seit](images/klein-0.jpg)
 
-Der Hauptstoff ist der Rest eines IKEA-Vorhangs. ICh nähe nur echt ungern mit Webware, weil dann alles so exakt gearbeitet sein muss.... man war ich froh, als die Nähte am Ende tatsächlich gepasst haben!!
+Der Hauptstoff ist der Rest eines IKEA-Vorhangs. Ich nähe nur echt ungern mit Webware, weil dann alles so exakt gearbeitet sein muss.... Mann war ich froh, als die Nähte am Ende tatsächlich gepasst haben!!
 
 ![Vorne](images/klein-2.jpg)
 
@@ -28,4 +28,8 @@ Auch den Hintern finde ich total putzig!
 
 ![hinten](images/klein-5.jpg)
 
-Das Nilpferd ist super als Kissen geeignet, wenn ich mit den Monstern in der Spieleecke sitze und zum darauf reiten ist es ebenfalls groß genug. eventuell hätte ich es etwas stärker füllen können, damit es sich beim Spielen nicht ganz so durchsitzt. Aber wer schonmal ein Kuscheltier gefüllt hat, weiß, welche Unmengen Watte so ein Vieh verschluckt... ich hatte einfach keine Lust mehr...
+Das Nilpferd ist super als Kissen geeignet, wenn ich mit den Monstern in der Spieleecke sitze und zum darauf reiten ist es ebenfalls groß genug. 
+
+Vermutlich hätte ich es etwas stärker füllen sollen, damit es sich beim Spielen nicht ganz so durchsitzt. Aber wer schonmal ein Kuscheltier gefüllt hat, weiß, welche Unmengen Watte so ein Vieh verschluckt... ich hatte einfach keine Lust mehr...
+
+
