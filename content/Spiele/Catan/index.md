@@ -3,7 +3,7 @@ title: "3D Catan"
 date: 2019-06-17T23:53:00+01:00
 draft: false
 summary: "Ein etwas größeres Projekt für Corona-Tage"
-summaryImage: "images/images/Allgemeines/7klein-13.jpg"
+summaryImage: "images/Allgemeines/7klein-13.jpg"
 tags: ["Spiel"]
 ---
 
@@ -30,6 +30,10 @@ Für die Lehmfelder habe ich zunächt Strukturpaste aufgetragen und anschließen
 Ürsprünglich hatte ich überlegt auch Lehmsteine aus Fimo auf die Felder zu kleben, habe mich aber dagegen entschieden. Nur drei der Steine wurden für den Lehmhafen verwendet.
 
 ![Lehm2](images/Lehm/Lehm2.jpg)
+
+![seit](images/Lehm/klein-15.jpg)
+
+![oben](images/Lehm/klein-25.jpg)
 
 #### Holz
 
@@ -89,8 +93,6 @@ Für die Schaffelder wurden die Sechsecke zuerst grün grundiert und mit Grasstr
 
 ![Streu](images/Schaf/1klein-7.jpg)
 
-
-
 ![]![Schaf1](images/Schaf/1klein-12.jpg)
 
 ![Huhu](images/Schaf/1klein-6.jpg)
@@ -135,13 +137,15 @@ Der weiße Leim wird natürlich noch transparent
 
 Die Wüste ist kein Meisterwerk geworden.... Einfach grundiert
 
-![Grundiert](images/Wüste/4klein-7.jpg)
+![Grundiert](images/Wuste/4klein-7.jpg)
 
 ... und Vogelsand drauf gestreut
 
-![Vogelsand](images/Wüste/5klein-13.jpg)
+![Vogelsand](images/Wuste/5klein-13.jpg)
 
 Nicht so sonderlich hübsch aber naja... ist ja bloß die Wüste.
+
+![Wüste](images/Wuste/klein-17.jpg)
 
 #### Wasser
 
@@ -175,25 +179,17 @@ Viiiel besser! :)
 
 ![Alle Chips](images/Allgemeines/klein-8.jpg)
 
-
+#### Spielfiguren
 
 Über die Spielfiguren habe ich mir viele Gedanken gemacht
 
-- die aus dem Originalspiel nehmen? 
-  
-  Ich habe nur die Plastikversion ud das sieht nicht gut aus
+- die aus dem Originalspiel nehmen?  Ich habe nur die Plastikversion und das sieht nicht gut aus
 
-- Figuren kaufen? 
-  
-  Zu teuer
+- Figuren kaufen? Zu teuer
 
-- Mit Steinen?
-  
-  Zu unregelmäßig. Dadurch sind evtl Städte und Dörfer nicht auseinander zu halten
+- Mit Steinen? Zu unregelmäßig. Dadurch sind evtl Städte und Dörfer nicht auseinander zu halten
 
-- Bohnen?
-  
-  Jaaa! das sind quasi regelmäßige Steine!
+- Bohnen? Jaaa! das sind quasi regelmäßige Steine!
 
 Bohnen also! Rote Bohnen am besten. Die haben eine schöne Größe. Aber REWE macht mit seinem Angebot ein Strich durch die Rechnung: Nur Linsen und weiße Bohnen... warten, bis wieder welche da sind oder in einen anderen Laden gehen kommt nicht in Frage! Ich will doch loslegen! Also weiße Bohnen, obwohl die viel zu klein sind
 
@@ -205,7 +201,7 @@ Um die Größe zu kompensireen, werden einfach mehrere Bohnen zusammen geklebtB
 
 Für die Städte habe ich verschiedene Varianten getestet. Von Penis bis Haufen alles dabei!
 
-![Tests](images/Allgemeines/Städte.jpg)
+![Tests](images/Allgemeines/Stadte.jpg)
 
 And the winner iiiiiiiis:
 
