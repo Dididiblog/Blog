@@ -20,10 +20,6 @@ Für den ersten Versuch finde ich es schon ganz passabel. Für eine Freizeit mit
 
 Dass die Nägel etwas rostig sind, finde ich keinesfalls negativ. Bei dem Draht handelt es sich um Blumendraht, den ich ebenfalls in Massen im Lager gefunden habe.
 
-
-
 Anschließend habe ich ganz verschiedene Dinge ausprobiert. 
 
 ![bla](images/klein-6.jpg) 
-
-
