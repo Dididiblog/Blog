@@ -106,7 +106,7 @@ params:
     # option to specify your contact email in the footer
     email: 
       link: diana.kurti@yahoo.de
-      title: My Email
+      title: Mail diana.kurti@yahoo.de
     # option to specify your linkedin profile in the footer
     #linkedin: 
     #  link: your_linkedin_profile

@@ -1,0 +1,6 @@
+Dran  denken die Bilder herunter zu skalieren
+Dann Texte schreiben
+Anschließend mit 
+hugo server -D 
+Draft erstellen und Seite auf localhost:1313/ im Browser anschauen
+

@@ -23,3 +23,5 @@ Eine Tasche auf der Rückseite sieht nicht nur gut aus, es hilft auch unheimlich
  Das Schnittmuster habe ich aus dem Buch "Alles Jersey"
 
 
+
+
