@@ -1,7 +1,8 @@
 ---
 title: "Puppenschrank"
 date: 2019-06-17T23:53:00+01:00
-draft: true
+draft: false
+
 hideLastModified: true
 summary: "Ein Schränkchen aus Holz für die Nichte."
 summaryImage: "images/klein_PXL_20201224_121941701.jpg"
@@ -29,7 +30,5 @@ Auf die Schubladen an sich bin ich stolz auch wenn sie bei Weitem nicht perfekt 
 ![](images/klein_PXL_20201224_122009354.jpg)
 
 Für die Farbwahl ist die Farbaufteilung des gesamten Puppenhauses verantwortlich. Das Schlafzimmer ist nunmal rosa. Da die einzigen mir zur Verfügung stehenden Farben rot, blau und weiß sind, musste gemischt werden. Ob der Farbton nun tatsächlich zum fertigen Haus passt, habe ich gar nicht mehr überprüft
-
-
 
 ![](images/klein_PXL_20201224_121916810.jpg)
